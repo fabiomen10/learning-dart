@@ -1,6 +1,6 @@
 Click the button below to start a development environment on Gitpod:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)]([https://github.com/fabiomen10/learning-dart])
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/fabiomen10/learning-dart)
 
 # Learning Dart
 New activity to learn programming. Now with Dart and Flutter.
