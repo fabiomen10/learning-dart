@@ -11,9 +11,11 @@
             "type": "dart",
             "program": "bin/hello_dart_project.dart"
         }
+
         {
             "name": "code",
             "cwd": "da-materials/02_expressions_variables_constants",
+            "request": "launch",
             "type": "dart",
             "program": "code.dart"
         }
