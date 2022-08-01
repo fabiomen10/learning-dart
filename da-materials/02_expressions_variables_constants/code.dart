@@ -63,3 +63,26 @@ print(sqrt(2));
 print(max(5, 10));
 print(min(-5, -10));
 print(max(sqrt(2), pi / 2));
+
+// Naming data
+
+// Variables
+int number = 10;
+number = 15;
+double apple = 3.14159;
+print(10.isEven);
+print(3.14159.round());
+
+// Type safety
+int myInteger = 10;
+// myInteger = 3.14159; // No, no, no. That's not allowed.
+
+num myNumber;
+myNumber = 10;      // OK
+myNumber = 3.14159; // OK
+// myNumber = 'ten'; // No, no, no.
+
+dynamic myVariable;
+myVariable = 10;      // OK
+myVariable = 3.14159; // OK
+myVariable = 'ten';   // OK
