@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="50%" src="https://github.com/JHBitencourt/dart-book/blob/master/website/src/images/promotional_cover_big.png">
+    <img width="50%" src="https://cdn.shopify.com/s/files/1/0155/7645/products/p_319fe74c-d444-43f0-8ea0-05f85622519c_large.jpg">
 </p>
 
 
